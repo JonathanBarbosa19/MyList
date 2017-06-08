@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyList</string>
+    <string name="novo_gasto">Cadastrar novo gasto</string>
+    <string name="listar_tarefas">Mostrar tarefas pendentes</string>
+    <string name="tarefas_concluidas">Mostrar tarefas concluidas</string>
+    <string name="configuracoes">Configurar app</string>
+
+
+</resources>
